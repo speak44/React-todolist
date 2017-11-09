@@ -1,0 +1,22 @@
+export default [
+  {
+    id:Math.random(),
+    cont:'111111',
+    ischecked:true
+  },
+  {
+    id:Math.random(),
+    cont:'22222',
+    ischecked:true
+  },
+  {
+    id:Math.random(),
+    cont:'333333',
+    ischecked:true
+  },
+  {
+    id:Math.random(),
+    cont:'444444',
+    ischecked:true
+  }
+]
